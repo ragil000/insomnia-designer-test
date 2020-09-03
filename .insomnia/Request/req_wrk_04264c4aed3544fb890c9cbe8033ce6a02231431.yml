@@ -1,0 +1,21 @@
+_id: req_wrk_04264c4aed3544fb890c9cbe8033ce6a02231431
+authentication: {}
+body: {}
+created: 1599129064953
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1599129064953
+method: GET
+modified: 1599129064953
+name: Returns a list of users.
+parameters: []
+parentId: wrk_04264c4aed3544fb890c9cbe8033ce6a
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/users"
